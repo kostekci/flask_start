@@ -55,7 +55,7 @@ env/
 /flask_start/static/build/
 
 # Configuration
-.env
+#.env
 
 # Development database
 *.db
